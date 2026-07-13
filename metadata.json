@@ -1,22 +1,19 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Python: Importing Options",
+    "slug": "python-importing-options",
+    "description": "A discussion of the different options available when importing from a module. Includes aliases and importing individual elements.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "python"
     ],
-    "duration": 0,
+    "duration": 5,
     "prerequisites": [
-        "",
-        ""
+        "python-variables",
+        "python-standard-library",
+        "python-packages"
     ],
     "related": [
-        "",
-        ""
     ]
 }
