@@ -36,9 +36,11 @@ print(p)
 
 # Import All Elements
 
-We can also import all elements from a module using the `*` wildcard. However, this is generally discouraged as it can lead to naming conflicts and make the code less readable. For example:
+We can also import all elements from a module using the `*` wildcard. For example:
 
 ```py-cell
 from math import *
 print(pi)
 ```
+
+However, this is generally discouraged as it can lead to naming conflicts and make the code less readable. This is particularly true when importing from multiple modules, as it can be unclear which module a specific element came from.
