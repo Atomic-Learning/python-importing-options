@@ -15,5 +15,6 @@
         "python-packages"
     ],
     "related": [
+        "python-importing-from-submodules-in-packages"
     ]
 }
